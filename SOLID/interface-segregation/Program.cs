@@ -56,7 +56,7 @@ public interface IPrinter
 
 public interface IScanner
 {
-    void Print(Document d);
+    void Scan(Document d);
 }
 
 public class Photocopier :IPrinter, IScanner
@@ -100,11 +100,11 @@ public class MultiFunctionMachine: IMultiFunctionMachine
         public void Print(Document d)
         {
             //use the existing implementations
-            this.printer.Print();
+            this.printer.Print(d);
         }
          public void Scan(Document d)
         {
-           this.scanner.Scan();
+           this.scanner.Scan(d);
         }
 
 }
