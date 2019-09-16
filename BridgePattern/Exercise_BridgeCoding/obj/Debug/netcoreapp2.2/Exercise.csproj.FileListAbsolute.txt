@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/bin/Debug/netcoreapp2.2/Exercise.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/bin/Debug/netcoreapp2.2/Exercise.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/bin/Debug/netcoreapp2.2/Exercise.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/bin/Debug/netcoreapp2.2/Exercise.dll
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/bin/Debug/netcoreapp2.2/Exercise.pdb
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/obj/Debug/netcoreapp2.2/Exercise.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/obj/Debug/netcoreapp2.2/Exercise.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/obj/Debug/netcoreapp2.2/Exercise.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/obj/Debug/netcoreapp2.2/Exercise.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/obj/Debug/netcoreapp2.2/Exercise.dll
+/home/gbarska/Github/ASPNET/design-patterns/BridgePattern/Exercise_BridgeCoding/obj/Debug/netcoreapp2.2/Exercise.pdb
