@@ -25,7 +25,7 @@ namespace DesignPatterns
         public static Point Origin2 = new Point(0,0);//singleton :  better
 
     //this property exposes our factory if we can't use a static factory for some reason
-    // public static PointFactory Factory => new PointFactory();
+    // public PointFactory Factory => new PointFactory();
 
     //as we don't want to make the constructor public the factory class should be an inner class of Point
     //this way the factory has all access
