@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/obj/Debug/netcoreapp2.2/Example4_Faceted Builder.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/obj/Debug/netcoreapp2.2/Example4_Faceted Builder.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/obj/Debug/netcoreapp2.2/Example4_Faceted Builder.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/obj/Debug/netcoreapp2.2/Example4_Faceted Builder.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/bin/Debug/netcoreapp2.2/Example4_Faceted Builder.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/bin/Debug/netcoreapp2.2/Example4_Faceted Builder.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/bin/Debug/netcoreapp2.2/Example4_Faceted Builder.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/bin/Debug/netcoreapp2.2/Example4_Faceted Builder.dll
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/bin/Debug/netcoreapp2.2/Example4_Faceted Builder.pdb
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/obj/Debug/netcoreapp2.2/Example4_Faceted Builder.dll
+/home/gbarska/Github/ASPNET/design-patterns/BuilterPattern/Example4_Faceted Builder/obj/Debug/netcoreapp2.2/Example4_Faceted Builder.pdb

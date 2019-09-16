@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/obj/Debug/netcoreapp2.2/liskov-principle.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/obj/Debug/netcoreapp2.2/liskov-principle.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/obj/Debug/netcoreapp2.2/liskov-principle.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/obj/Debug/netcoreapp2.2/liskov-principle.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/bin/Debug/netcoreapp2.2/liskov-principle.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/bin/Debug/netcoreapp2.2/liskov-principle.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/bin/Debug/netcoreapp2.2/liskov-principle.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/bin/Debug/netcoreapp2.2/liskov-principle.dll
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/bin/Debug/netcoreapp2.2/liskov-principle.pdb
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/obj/Debug/netcoreapp2.2/liskov-principle.dll
+/home/gbarska/Github/ASPNET/design-patterns/liskov-principle/obj/Debug/netcoreapp2.2/liskov-principle.pdb

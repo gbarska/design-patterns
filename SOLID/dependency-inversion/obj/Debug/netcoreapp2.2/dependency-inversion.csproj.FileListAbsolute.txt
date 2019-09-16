@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/obj/Debug/netcoreapp2.2/dependency-inversion.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/obj/Debug/netcoreapp2.2/dependency-inversion.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/obj/Debug/netcoreapp2.2/dependency-inversion.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/obj/Debug/netcoreapp2.2/dependency-inversion.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/bin/Debug/netcoreapp2.2/dependency-inversion.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/bin/Debug/netcoreapp2.2/dependency-inversion.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/bin/Debug/netcoreapp2.2/dependency-inversion.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/bin/Debug/netcoreapp2.2/dependency-inversion.dll
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/bin/Debug/netcoreapp2.2/dependency-inversion.pdb
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/obj/Debug/netcoreapp2.2/dependency-inversion.dll
+/home/gbarska/Github/ASPNET/design-patterns/dependency-inversion/obj/Debug/netcoreapp2.2/dependency-inversion.pdb

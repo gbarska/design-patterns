@@ -1,0 +1,4 @@
+/home/gbarska/Github/ASPNET/design-patterns/interface-segregation/obj/Debug/netcoreapp2.2/interface-segregation.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/interface-segregation/obj/Debug/netcoreapp2.2/interface-segregation.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/interface-segregation/obj/Debug/netcoreapp2.2/interface-segregation.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/interface-segregation/obj/Debug/netcoreapp2.2/interface-segregation.AssemblyInfo.cs
