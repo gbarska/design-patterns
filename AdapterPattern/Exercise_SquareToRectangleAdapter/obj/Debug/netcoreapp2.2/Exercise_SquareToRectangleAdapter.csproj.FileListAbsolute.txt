@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/obj/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/obj/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/obj/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/obj/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/bin/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/bin/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/bin/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/bin/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.dll
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/bin/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.pdb
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/obj/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.dll
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Exercise_SquareToRectangleAdapter/obj/Debug/netcoreapp2.2/Exercise_SquareToRectangleAdapter.pdb

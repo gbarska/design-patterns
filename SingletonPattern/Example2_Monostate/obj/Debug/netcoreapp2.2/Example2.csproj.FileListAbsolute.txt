@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/obj/Debug/netcoreapp2.2/Example2.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/obj/Debug/netcoreapp2.2/Example2.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/obj/Debug/netcoreapp2.2/Example2.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/obj/Debug/netcoreapp2.2/Example2.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/bin/Debug/netcoreapp2.2/Example2.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/bin/Debug/netcoreapp2.2/Example2.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/bin/Debug/netcoreapp2.2/Example2.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/bin/Debug/netcoreapp2.2/Example2.dll
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/bin/Debug/netcoreapp2.2/Example2.pdb
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/obj/Debug/netcoreapp2.2/Example2.dll
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example2_Monostate/obj/Debug/netcoreapp2.2/Example2.pdb

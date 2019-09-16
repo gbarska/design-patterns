@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/Example1.csproj": {}
+  },
+  "projects": {
+    "/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/Example1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/Example1.csproj",
+        "projectName": "Example1",
+        "projectPath": "/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/Example1.csproj",
+        "packagesPath": "/home/gbarska/.nuget/packages/",
+        "outputPath": "/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/gbarska/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

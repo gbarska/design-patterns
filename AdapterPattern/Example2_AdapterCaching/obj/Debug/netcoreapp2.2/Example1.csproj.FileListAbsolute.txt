@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/obj/Debug/netcoreapp2.2/Example1.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/obj/Debug/netcoreapp2.2/Example1.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/obj/Debug/netcoreapp2.2/Example1.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/obj/Debug/netcoreapp2.2/Example1.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/bin/Debug/netcoreapp2.2/Example1.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/bin/Debug/netcoreapp2.2/Example1.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/bin/Debug/netcoreapp2.2/Example1.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/bin/Debug/netcoreapp2.2/Example1.dll
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/bin/Debug/netcoreapp2.2/Example1.pdb
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/obj/Debug/netcoreapp2.2/Example1.dll
+/home/gbarska/Github/ASPNET/design-patterns/AdapterPattern/Example1_Vector_Raster/obj/Debug/netcoreapp2.2/Example1.pdb

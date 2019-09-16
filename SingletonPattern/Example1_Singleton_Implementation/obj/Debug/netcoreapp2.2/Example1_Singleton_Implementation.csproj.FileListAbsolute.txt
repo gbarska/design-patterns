@@ -1,0 +1,11 @@
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/obj/Debug/netcoreapp2.2/Example1_Singleton_Implementation.csprojAssemblyReference.cache
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/obj/Debug/netcoreapp2.2/Example1_Singleton_Implementation.csproj.CoreCompileInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/obj/Debug/netcoreapp2.2/Example1_Singleton_Implementation.AssemblyInfoInputs.cache
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/obj/Debug/netcoreapp2.2/Example1_Singleton_Implementation.AssemblyInfo.cs
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/bin/Debug/netcoreapp2.2/Example1_Singleton_Implementation.deps.json
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/bin/Debug/netcoreapp2.2/Example1_Singleton_Implementation.runtimeconfig.json
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/bin/Debug/netcoreapp2.2/Example1_Singleton_Implementation.runtimeconfig.dev.json
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/bin/Debug/netcoreapp2.2/Example1_Singleton_Implementation.dll
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/bin/Debug/netcoreapp2.2/Example1_Singleton_Implementation.pdb
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/obj/Debug/netcoreapp2.2/Example1_Singleton_Implementation.dll
+/home/gbarska/Github/ASPNET/design-patterns/SingletonPattern/Example1_Singleton_Implementation/obj/Debug/netcoreapp2.2/Example1_Singleton_Implementation.pdb
