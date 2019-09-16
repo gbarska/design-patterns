@@ -26,10 +26,8 @@ namespace Exercise_PersonFactory
     }
 
   }
-
-  
-
-    class Program
+ 
+   class Program
     {
         static void Main(string[] args)
         {
